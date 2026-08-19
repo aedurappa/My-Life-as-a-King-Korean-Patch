@@ -9,15 +9,11 @@
   작은 임금님과 약속의 나라
   
   일본판의 영어 부제
-  (Final Fantasy Crystal Chronicles - My Life as a King / The World of the Little King) <- 한국어 패치 대상
-
-  영문판의 제목
-  (Final Fantasy Crystal Chronicles - My Life as a King) <- 패치 대상 아님
-- 언어: 일본어 → 한국어
+  (Final Fantasy Crystal Chronicles - My Life as a King / The World of the Little King)
 
 ## 패치 소개
 
-게임 내 대사와 메뉴, 시스템 메시지 등을 한국어로 번역하고
+게임 본편 및 DLC 내 대사와 메뉴, 시스템 메시지 등을 한국어로 번역하고
 폰트 및 이미지 리소스를 수정하여 한국어가 정상적으로 표시되도록 작업했습니다.
 
 ## 다운로드
@@ -27,12 +23,15 @@
 ## 오토 패치 적용 방법
 
 1. 원본 게임 이미지의 MD5를 확인합니다.
-2. MD5가 `88d6c079015b59b7e93bda042ea2159b`인지 확인합니다.
-3. Patcher.exe에 준비한 이미지를 Drag&Drop 합니다.
-4. 패치 된 파일이 Patcher.exe 와 동일 폴더에 "원본이미지이름(Korean)"형식으로 저장됩니다.
+2. 본편(v256) MD5가 `ab8d101ae9be3556a6c999b8a9091066`인지 확인합니다.
+   DLC(2009-07-13) MD5가 `32c10cca1f44c3bb594d24ec02fa5968`인지 확인합니다.
+3. Patcher.exe에 본편을 Drag&Drop 합니다.
+   DLC_Patcher.exe에 DLC를 Drag&Drop 합니다.
+4. 패치 된 파일이 Patcher.exe 및 DLC_Patcher.exe 와 동일 폴더에 "원본이미지이름(Korean)"형식으로 저장됩니다.
 5. 해당 파일로 게임을 즐기시면 됩니다.
 
-※ 반드시 원본 이미지의 해시가 다르면 게임이 패치 되지 않습니다..
+※ 반드시 원본 이미지의 해시가 다르면 게임이 패치 되지 않습니다.
+   DLC는 사용자 취향에 따라 설치하지 않으셔도 무방합니다.
 
 ## 주의사항
 
