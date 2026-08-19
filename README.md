@@ -24,7 +24,7 @@
 
 1. 원본 게임 이미지의 MD5를 확인합니다.
 2. 본편(v256) MD5가 `ab8d101ae9be3556a6c999b8a9091066`인지 확인합니다.
-   DLC(2009-07-13) MD5가 `32c10cca1f44c3bb594d24ec02fa5968`인지 확인합니다.
+   - DLC(2009-07-13) MD5가 `32c10cca1f44c3bb594d24ec02fa5968`인지 확인합니다.
 3. Patcher.exe에 본편을 Drag&Drop 합니다.
    DLC_Patcher.exe에 DLC를 Drag&Drop 합니다.
 4. 패치 된 파일이 Patcher.exe 및 DLC_Patcher.exe 와 동일 폴더에 "원본이미지이름(Korean)"형식으로 저장됩니다.
